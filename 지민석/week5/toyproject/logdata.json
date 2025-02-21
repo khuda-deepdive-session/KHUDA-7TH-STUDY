@@ -1,0 +1,55 @@
+[
+    {"user_id": "user1", "quiz_id": "1", "correct": 1, "time_stamp": 12.3},
+    {"user_id": "user1", "quiz_id": "2", "correct": 0, "time_stamp": 15.7},
+    {"user_id": "user1", "quiz_id": "3", "correct": 1, "time_stamp": 8.5},
+    {"user_id": "user1", "quiz_id": "4", "correct": 1, "time_stamp": 6.9},
+    {"user_id": "user1", "quiz_id": "5", "correct": 0, "time_stamp": 14.0},
+
+    {"user_id": "user2", "quiz_id": "2", "correct": 1, "time_stamp": 9.5},
+    {"user_id": "user2", "quiz_id": "3", "correct": 1, "time_stamp": 7.8},
+    {"user_id": "user2", "quiz_id": "4", "correct": 0, "time_stamp": 12.2},
+    {"user_id": "user2", "quiz_id": "5", "correct": 1, "time_stamp": 5.7},
+    {"user_id": "user2", "quiz_id": "6", "correct": 1, "time_stamp": 8.3},
+
+    {"user_id": "user3", "quiz_id": "1", "correct": 0, "time_stamp": 14.2},
+    {"user_id": "user3", "quiz_id": "3", "correct": 1, "time_stamp": 6.1},
+    {"user_id": "user3", "quiz_id": "4", "correct": 1, "time_stamp": 10.5},
+    {"user_id": "user3", "quiz_id": "5", "correct": 0, "time_stamp": 13.4},
+    {"user_id": "user3", "quiz_id": "6", "correct": 1, "time_stamp": 7.9},
+
+    {"user_id": "user4", "quiz_id": "2", "correct": 1, "time_stamp": 9.0},
+    {"user_id": "user4", "quiz_id": "3", "correct": 0, "time_stamp": 11.6},
+    {"user_id": "user4", "quiz_id": "4", "correct": 1, "time_stamp": 8.8},
+    {"user_id": "user4", "quiz_id": "5", "correct": 1, "time_stamp": 7.2},
+    {"user_id": "user4", "quiz_id": "6", "correct": 0, "time_stamp": 14.1},
+
+    {"user_id": "user5", "quiz_id": "1", "correct": 0, "time_stamp": 15.5},
+    {"user_id": "user5", "quiz_id": "3", "correct": 1, "time_stamp": 7.0},
+    {"user_id": "user5", "quiz_id": "4", "correct": 1, "time_stamp": 9.3},
+    {"user_id": "user5", "quiz_id": "5", "correct": 0, "time_stamp": 12.6},
+    {"user_id": "user5", "quiz_id": "6", "correct": 1, "time_stamp": 8.4},
+
+    {"user_id": "user6", "quiz_id": "2", "correct": 1, "time_stamp": 10.1},
+    {"user_id": "user6", "quiz_id": "3", "correct": 1, "time_stamp": 6.5},
+    {"user_id": "user6", "quiz_id": "4", "correct": 0, "time_stamp": 13.0},
+    {"user_id": "user6", "quiz_id": "5", "correct": 1, "time_stamp": 7.5},
+    {"user_id": "user6", "quiz_id": "6", "correct": 0, "time_stamp": 15.2},
+
+    {"user_id": "user7", "quiz_id": "1", "correct": 1, "time_stamp": 9.8},
+    {"user_id": "user7", "quiz_id": "2", "correct": 1, "time_stamp": 5.6},
+    {"user_id": "user7", "quiz_id": "3", "correct": 0, "time_stamp": 12.1},
+    {"user_id": "user7", "quiz_id": "4", "correct": 1, "time_stamp": 6.3},
+    {"user_id": "user7", "quiz_id": "5", "correct": 1, "time_stamp": 8.2},
+
+    {"user_id": "user8", "quiz_id": "1", "correct": 0, "time_stamp": 16.0},
+    {"user_id": "user8", "quiz_id": "2", "correct": 1, "time_stamp": 8.5},
+    {"user_id": "user8", "quiz_id": "3", "correct": 1, "time_stamp": 7.6},
+    {"user_id": "user8", "quiz_id": "4", "correct": 0, "time_stamp": 14.8},
+    {"user_id": "user8", "quiz_id": "5", "correct": 1, "time_stamp": 6.9},
+
+    {"user_id": "user9", "quiz_id": "1", "correct": 1, "time_stamp": 10.7},
+    {"user_id": "user9", "quiz_id": "2", "correct": 0, "time_stamp": 13.9},
+    {"user_id": "user9", "quiz_id": "3", "correct": 1, "time_stamp": 5.8},
+    {"user_id": "user9", "quiz_id": "4", "correct": 1, "time_stamp": 8.3},
+    {"user_id": "user9", "quiz_id": "5", "correct": 0, "time_stamp": 15.0}
+]
